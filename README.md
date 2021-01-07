@@ -1,3 +1,3 @@
 # a-react-clock
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/a-react-clock)
+First project in react
+Very simple react clock
